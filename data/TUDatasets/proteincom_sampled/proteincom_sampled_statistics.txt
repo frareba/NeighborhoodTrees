@@ -1,0 +1,6 @@
+#Graphs: 1000
+#Classes: 1
+#Vertices: 10187
+#Edges: 9187
+ avg #Vertices: 10.187
+ avg #Edges: 9.187
